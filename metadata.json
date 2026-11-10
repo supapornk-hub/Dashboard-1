@@ -1,0 +1,8 @@
+{
+  "name": "ระบบประเมินความพึงพอใจการอบรม & Live Dashboard",
+  "description": "เว็บแอปพลิเคชันเก็บแบบประเมินความพึงพอใจการอบรมผ่านมือถือ พร้อมแสดงผลสถิติแบบเรียลไทม์บนจอโปรเจกเตอร์ รหัส QR Code และคู่มือโค้ด Firebase 2 ไฟล์",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
